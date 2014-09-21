@@ -1,0 +1,27 @@
+Canadian Chronic Disease Relationships
+========================================================
+author: J. Mann
+date: September 21, 2014
+
+The Data
+========================================================
+
+ 
+
+The Visualisation Choices
+========================================================
+
+```{r, }
+#I said summary, I did NOT say "Simon says: 'summary' "
+summary(cars)
+```
+
+The Result
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Interesting Observations
+========================================================
